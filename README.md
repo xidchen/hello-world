@@ -1,2 +1,2 @@
 # hello-world
-Just first test for GitHub
+It is the first edit for the README file changed from the original one.
