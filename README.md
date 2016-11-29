@@ -1,3 +1,3 @@
 # hello-world
-Hello Humans,
-I am Sheldon, bitch.
+Hello,
+I am Sheldon Chen.
